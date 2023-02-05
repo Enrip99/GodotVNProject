@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Images/Amogus.png" type="Texture" id=1]
+
+[node name="BaseChar" type="Control"]
+
+[node name="CharText" type="TextureRect" parent="."]
+margin_right = 176.0
+margin_bottom = 182.0
+texture = ExtResource( 1 )
